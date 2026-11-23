@@ -70,7 +70,7 @@ nav a:hover{
     border-radius:50% ;
 }
 #clock{
-    color:white ;
+    color:blue;
     margin-left: 10px;
     font-family: monospace;
 }
